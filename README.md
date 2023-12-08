@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **swift, ios, etc**
 
-- 📝 I regularly write articles on [velog.io/@ykyohub](velog.io/@ykyohub)
+- 📝 I regularly write articles on [velog.io/@ykyohub](https://velog.io/@ykyohub)
 
 - 📫 How to reach me **rbgh2858@naver.com**
 
